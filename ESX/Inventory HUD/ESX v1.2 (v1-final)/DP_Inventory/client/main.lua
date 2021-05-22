@@ -2,6 +2,8 @@ isInInventory = false
 maxWeight = nil
 ESX = nil
 
+local Drops = {}
+
 local fastWeapons = {
 	[1] = nil,
 	[2] = nil,
